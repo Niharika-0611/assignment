@@ -1,0 +1,3 @@
+Invalid DYSPNEA mapping. 
+Check Risk calculation.
+Introduces some errors in your data.
